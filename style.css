@@ -1,3 +1,121 @@
-h2{
-    color: burlywood;
+body{
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.donate-main-section{
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 220px;
+    
+}
+
+.donate-header {
+    width: 60%;
+    text-align: center;
+    margin-left:20%;
+    
+}
+
+.donate-header h1 {
+    font-size: 36px;
+    color: white;
+}
+.donate-header p {
+    color: #DEDCDC;
+    font-size: 19px;
+    padding-top: 26px;
+    padding-bottom: 34px;
+}
+.donate-button {
+    background-color: #FF5959;
+    padding: 12px 15px;
+    font-size: 19px;
+    font-weight: 700;
+    border: 1px solid #ff5959;
+    color: white;
+    border-radius: 7px;
+}
+
+/* scond section */
+
+.donate-today-item {
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15px;
+}
+.item-tk {
+    height: 165px;
+    width: 176px;
+    background-color: #FAFAFA;
+    color: #707070;
+    margin-left: 14px;
+    font-size: 20px;
+}
+
+.item-tk h1 {
+    text-align: center;
+    padding-top: 59px;
+}
+
+.donate-today-frist {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 157px;
+    margin-bottom: 69px;
+}
+
+.donate-today-frist h1 {
+    font-size: 39px;
+    text-align: center;
+    font-weight: 700;
+    padding-bottom: 13px;
+}
+.donate-today-frist p {
+    font-size: 17px;
+    text-align: center;
+    color: #737373;
+}
+
+#color-add {
+    border: 3px solid #FF5959;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+}
+
+#color-add h1 {
+    color: #FF5959;
+}
+
+
+.box-down {
+    height: 100px;
+    width: 70%;
+    margin-left: 16%;
+    margin-right: 16%;
+    border-bottom: 1px solid gray;
+}
+
+.box-down p {
+    font-size: 21px;
+    text-align: center;
+    color: #707070;
+    padding-top: 62px;
+}
+
+.donate-btn {
+    background-color: #FF5959;
+    padding: 12px 15px;
+    font-size: 19px;
+    font-weight: 700;
+    border: 1px solid #ff5959;
+    color: white;
+    border-radius: 7px;
+    margin-left: 394px;
+    margin-top: 40px;
 }
