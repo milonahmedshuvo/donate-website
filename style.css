@@ -119,3 +119,69 @@ body{
     margin-left: 394px;
     margin-top: 40px;
 }
+
+
+.our-plan {
+    margin-top: 188px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.our-plan h1 {
+    font-size: 35px;
+    padding-bottom: 16px;
+}
+
+.our-plan p {
+    font-size: 16px;
+    width: 67%;
+    text-align: center;
+    margin-left: 162px;
+    color: gray;
+}
+
+
+.donate-plan-items {
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.donate-item {
+    margin-right: 19px;
+    margin-top: 84px;
+    height: 240px;
+    text-align: center;
+    padding-top: 114px;
+}
+
+.donate-item img {
+    width: 75px;
+    margin-right: 229px;
+    margin-top: -109px;
+}
+.donate-item h1 {
+    font-size: 26px;
+    margin-right: 109px;
+    padding-top: 20px;
+    font-weight: 500;
+}
+.donate-item p {
+    font-size: 19px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 11px;
+    color: gray;
+}
+
+#food{
+    background-color: #EDF5F6;
+}
+#family{
+    background-color: #FFEEEE;
+}
+#education{
+    background-color: #FFF4D6;
+}
